@@ -9,10 +9,10 @@ var options = {
     recconect: true
   },
   identity: {
-    username: "matty70988",
-    password: "oauth:a6hgxtwopeqwqzf9po7zoiv8cjjhxh"
+    username: "USERNAME",
+    password: "OAUTH TOKEN"
   },
-  channels: ["#fluffyscab"]
+  channels: ["#CHANNEL"]
 };
 
 var client = new tmi.client(options);
